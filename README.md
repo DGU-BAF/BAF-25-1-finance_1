@@ -16,7 +16,7 @@
 
 ## ⚙️ 활용 기술
 
-- Python (Pandas, NumPy, PyTorch)
+- Python (Pandas, NumPy, Tensorflow)
 - PyKRX (주가 및 ETF 데이터 수집)
 - 강화학습 PPO (Proximal Policy Optimization)
 - LSTM 기반 시계열 임베딩
